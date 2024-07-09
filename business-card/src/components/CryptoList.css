@@ -1,0 +1,41 @@
+.crypto-list {
+  padding: 20px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.crypto-list input {
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 80%;
+  max-width: 400px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.crypto-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.crypto-list th, .crypto-list td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.crypto-list th {
+  background-color: #f4f4f4;
+}
+
+.crypto-list td {
+  position: relative;
+  height: 80px;
+}
+
+.chart-container {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}

@@ -1,0 +1,25 @@
+.register {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .register form {
+    display: inline-block;
+    text-align: left;
+  }
+  
+  .register label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  .register input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+  }
+  
+  .register button {
+    margin-top: 20px;
+    padding: 10px 20px;
+  }
